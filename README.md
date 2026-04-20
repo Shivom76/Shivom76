@@ -53,6 +53,13 @@ I am a **Full-Stack Web Developer** and **IoT Major** at Jain University with a 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](http://shivom.online)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivompaul76@gmail.com)
 
+### 📊 My GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivom76&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivom76&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivom76&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivom76&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
