@@ -54,5 +54,5 @@ I am a **Full-Stack Web Developer** and **IoT Major** at Jain University with a 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivompaul76@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivom76&show_icons=true&theme=radical" alt="Shivom's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivom76&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
