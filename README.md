@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shivom Paul!</h1>
-<h3 align="center">Full-Stack Developer | IoT & Real-Time Systems Enthusiast | SIH 2025 Internal Winner</h3>
+<h3 align="center">Full-Stack Developer | IoT & Real-Time Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Internet%20of%20Things-blue?style=flat-square" alt="Education">
